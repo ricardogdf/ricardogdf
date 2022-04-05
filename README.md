@@ -1,9 +1,9 @@
 ## Olá! Seja Bem-Vindo(a)!
 
-<div align="center">
+<div align="center"><br>
   <a href="https://github.com/ricardogdf">
-  <img src="https://github-readme-stats.vercel.app/api?username=ricardogdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogdf&layout=compact&langs_count=7&theme=dracula"/>
+  <img alt="GitHub Stats" title="GitHub Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=ricardogdf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img alt="Most Used Languages" title="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogdf&layout=compact&langs_count=6&theme=dracula"/>
 </div>
 
 #
