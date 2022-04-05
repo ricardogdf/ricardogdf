@@ -4,7 +4,7 @@
 
 👨‍💻 Desenvolvedor front-end;<br>
 💻 Atualmente trabalhando na <a href="https://www.madeiramadeira.com.br/">MadeiraMadeira</a>, startup unicórnio brasileira<br>
-🌱 Estou buscando aperfeiçoar cada dia mais minhas habilidades em front end, buscando sempre estar atualizado <br>
+🌱 Estou buscando aperfeiçoar cada dia mais minhas habilidades em front-end, buscando sempre estar atualizado <br>
 
 #
   
