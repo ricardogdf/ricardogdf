@@ -3,7 +3,7 @@
 ### 🏡 Sobre mim:
 
 👨‍💻 Desenvolvedor front-end;<br>
-💻 Atualmente trabalhando na PrimeDB, empresa que presta consultoria em banco de dados.<br>
+💻 Atualmente trabalhando na <a href="https://primedb.solutions/pt/">PrimeDB Solutions</a>.<br>
 🌱 Tenho aperfeiçoado cada dia mais minhas habilidades em front-end, buscando sempre estar atualizado.<br>
 
 #
