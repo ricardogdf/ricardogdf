@@ -3,8 +3,8 @@
 ### 🏡 Sobre mim:
 
 👨‍💻 Desenvolvedor front-end;<br>
-💻 Atualmente trabalhando na <a href="https://www.madeiramadeira.com.br/">MadeiraMadeira</a>, startup unicórnio brasileira<br>
-🌱 Estou buscando aperfeiçoar cada dia mais minhas habilidades em front-end, buscando sempre estar atualizado <br>
+💻 Atualmente trabalhando na PrimeDB, empresa que presta consultoria em banco de dados.<br>
+🌱 Tenho aperfeiçoado cada dia mais minhas habilidades em front-end, buscando sempre estar atualizado.<br>
 
 #
   
@@ -19,7 +19,6 @@
   <br><br>
   <a href="https://git-scm.com" target="_blank"><img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
   <a href="https://github.com" target="_blank"><img align="center" alt="GitHub" title="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-  <a href="https://python.org" target="_blank"><img align="center" alt="Python" title="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
   <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Visual Studio Code" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
   <a href="https://atlassian.com/software/jira" target="_blank"><img align="center" alt="Jira" title="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a>
 </div>
