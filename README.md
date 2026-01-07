@@ -24,13 +24,6 @@
 </div>
   
 #
-
-<div align="center"><br>
-  <a href="https://github.com/ricardogdf">
-  <img alt="Most Used Languages" title="Most Used Languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardogdf&layout=compact&langs_count=6&theme=dracula"/>
-</div>
-
- <br>
 <div align="center"> 
   <a href="https://instagram.com/mad.rickk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mad_rickk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
