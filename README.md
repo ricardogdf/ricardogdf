@@ -6,7 +6,6 @@
 💻 Atualmente trabalhando na <a href="https://primedb.solutions/pt/">PrimeDB Solutions</a>.<br>
 🌱 Aprofundando conhecimentos em backend e arquitetura.<br>
 
-#
 <div align="center" display="flex"> 
   <a href="https://instagram.com/mad.rickk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/mad_rickk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
