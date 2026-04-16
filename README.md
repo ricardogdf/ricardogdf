@@ -2,27 +2,10 @@
 
 ### 🏡 Sobre mim:
 
-👨‍💻 Desenvolvedor front-end;<br>
+👨‍💻 Desenvolvedor full-stack com foco em front-end;<br>
 💻 Atualmente trabalhando na <a href="https://primedb.solutions/pt/">PrimeDB Solutions</a>.<br>
-🌱 Tenho aperfeiçoado cada dia mais minhas habilidades em front-end, buscando sempre estar atualizado.<br>
+🌱 Aprofundando conhecimentos em backend e arquitetura.<br>
 
-#
-  
-### 🚀 Hard skills:
-<div align="center" display="flex">
-  <a href="https://reactjs.org" target="_blank"><img align="center" alt="React" title="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img align="center" alt="JavaScript" title="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
-  <a href="https://typescriptlang.org" target="_blank"><img align="center" alt="TypeScript" title="TypeScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img align="center" alt="HTML" title="HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img align="center" alt="CSS" title="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"</a>
-  <br><br>
-  <a href="https://sass-lang.com" target="_blank"><img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></a>
-  <a href="https://git-scm.com" target="_blank"><img align="center" alt="Git" title="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"></a>
-  <a href="https://github.com" target="_blank"><img align="center" alt="GitHub" title="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
-  <a href="https://code.visualstudio.com" target="_blank"><img align="center" alt="Visual Studio Code" title="Visual Studio Code" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-  <a href="https://atlassian.com/software/jira" target="_blank"><img align="center" alt="Jira" title="Jira" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"></a>
-</div>
-  
 #
 <div align="center" display="flex"> 
   <a href="https://instagram.com/mad.rickk" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
