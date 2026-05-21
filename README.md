@@ -2,7 +2,7 @@
 
 ### 🏡 Sobre mim:
 
-👨‍💻 Desenvolvedor full-stack com foco em front-end;<br>
+👨‍💻 Desenvolvedor full-stack com foco em frontend;<br>
 💻 Atualmente trabalhando na <a href="https://primedb.solutions/pt/">PrimeDB Solutions</a>.<br>
 🌱 Aprofundando conhecimentos em backend e arquitetura.<br>
 
